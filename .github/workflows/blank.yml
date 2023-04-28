@@ -38,5 +38,5 @@ jobs:
   rwf:
     # The type of runner that the job will run on
     # uses: hello-2582/didactic-happiness/.github/workflows/blank.yml@main
-    uses: octo-org/example-repo/.github/workflows/reusable-workflow.yml@main
+    uses: amulyakashyap09/resuable-workflows/.github/workflows/manual-trigger-job.yml@main
 
